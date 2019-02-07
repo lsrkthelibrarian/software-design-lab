@@ -1,7 +1,7 @@
 
-# $NAME's Course Goals
+# Lauren's Course Goals
 
-## Goal One
+## Understand difference between Markup and Markdown
 
 
 -----
