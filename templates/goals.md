@@ -24,7 +24,7 @@ I will be able to use the command line to move files around and then check in th
 Benchmark: Will successfully run the program to identify the collections of zines that have a web presence.
 
 
-# Technical: I'd like to update [ZineCat's GitHub repo](https://github.com/zinecat) using the tools and skills learned in this class.
+## Technical: I'd like to update [ZineCat's GitHub repo](https://github.com/zinecat) using the tools and skills learned in this class.
 
 -----
 
