@@ -21,12 +21,14 @@ I will be able to use the command line to move files around and then check in th
 
 -----
 
-Benchmark: Will successfully run the program to identify the collections of zines that have a web presence.
+Benchmark: 
+Will successfully run the program to identify the collections of zines that have a web presence.
 
 
 ## Technical: I'd like to update [ZineCat's GitHub repo](https://github.com/zinecat) using the tools and skills learned in this class.
 
 -----
 
-Benchmark: Content on ZineCat's GitHub will be updated and current to reflect the work of the project conducted over the last two years.
+Benchmark: 
+Content on ZineCat's GitHub will be updated and current to reflect the work of the project conducted over the last two years.
 
