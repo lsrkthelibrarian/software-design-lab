@@ -22,4 +22,4 @@ This week I want to master the git add, commit, and push so that my files can st
 
 Hour 1: Stayed after class to review how to add, commit, and push to git and to ensure that my repository was connected.  I made sure to take careful notes of how to complete this on my own.
 Hour 2: Updated my goals, which I'm not sure if I'm on the right track with, but I did use the opportunity of drafting the goals and benchmarks by using the git add, commit, and push function many times.  I look forward to your feedback!
-Hour 3: Working on journals for the last three weeks.  I plan to be better with updating this as the course goes on.  Turns out that I didn't do it properly on my first try, so I had to do it again.  Thus I am adding this last statement to clarify that I haven't yet mastered the add, commit, push.  I'll try again!
+Hour 3: Working on journals for the last three weeks.  I plan to be better with updating this as the course goes on.  Turns out that I didn't do it properly on my first try, so I had to do it again.  Thus I am adding this last statement to clarify that I haven't yet mastered the add, commit, push.  I'll try again!  Another update: SUCCESS!
