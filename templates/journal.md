@@ -1,4 +1,4 @@
-# $Lauren's Technical Journal
+# Lauren's Technical Journal
 
 ## Week One (1/30 to 2/5)
 
