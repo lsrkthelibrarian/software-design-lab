@@ -26,4 +26,24 @@ Hour 3: Working on journals for the last three weeks.  I plan to be better with 
 
 ## Week Four (2/20 to 2/26)
 
-This week I want to work more with Python. Complete the tutorials!  I also want to finish the optional tutorials on HTML.  Also, update my HTML site.
+This week I want to work more with Python. Complete the tutorials!  I also want to finish the optional tutorials on HTML.  Also, update my HTML site.  
+
+Extremely tardy update:  I did not get to do much of this work when I wanted to.  Work, travel, and life have gotten in the way and I am not circling back to continue on progressing through the course.  
+
+## Week Five (2/27 to 3/5)
+
+I had to miss class this week due to attendance at a conference.  This travel has put me even further behind.  Not what I was hoping for at this point in the semester.  I've been following along in class and really enjoying the lab time we have in class, but I realize this is not all that I need to do to be successful in this class.  I am going to continue to follow along with the "at-home" lab work.
+
+## Week Five (3/6 to 3/12)
+
+I got sick in class this week and luckily made it through the session, but was unable to do ANY work.  
+
+## Week Six (3/13 to 3/19)
+
+I had to miss class this week, again, due to my illness.  I was wiped out for a week and a half.  This has put me severly behind, but as of this writing on 3/24, I am finally feeling better and ready to begin the process of catching up on missed work.  This week, I am going to go back to Week four and start over.  
+
+## Week Seven (3/20 to 3/26)
+This week is when we have an assignment due.  I'm a little unsure of what I will submit as I've fallen behind, but I think after doing some work to catch up, I will have a better idea of what to propose.  
+
+
+## Week Eight (3/27 to 4/2)
