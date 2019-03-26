@@ -47,5 +47,10 @@ This week is when we have an assignment due.  I'm a little unsure of what I will
 
 3/25/19 I've spent about an hour in the Learning the Python the Hardway tutorial and i know that Zed is using a different version of Python and a different text editor, but so far that hasn't been too big of a deal.  I realized that in order to print anything using his directions, I had to add a "()" around the string.  I've now gotten to Exercise 5 where he introduces "More Variables and Printing" and is using the "%" symbol to demonstrate a format string by using specialized format sequences.  However, I can't get it to work and when I google the error I am getting "TypeError: unsupported operand type(s) for %: 'NoneType' and 'str'" I do not understand what the instructions for updating this are.  I am now thinking that it's possibly an issue with the disparate versions of python??!!  I am hesitant to move on before mastering this part of the lesson.  I am going to move on to the next Lab Resource and attempt to learn specialized formatting of strings!
 
+I should say that I am very comfortable opening and using the command line now.  And by very comfortable, I mean not scared of it at all.  I look forward to a challenge that shakes me a little and disrupts my comfort.  I've been using the tab and space key to toggle between programs and this, if nothing else, is the most useful skill I've acquired so far! :-)
+
+3/26/19 I'm now working on the Wikibooks Tutorial for learning python.  I made my first mistake where I can learn from.  When defining a variable and then trying to print it on the command line, quote marks are NOT needed.  Okay, back to the tutorial now...
+
+I've spent another hour going through the Wikibooks tutorial and was able to get the %s special formatting to work this time, but not sure why!  I'm now stuck on the Exercises in the Variables and Strings tutorial!  I'm going to continue to tackle the exercises and also to take the Quiz at the end.  I like that there are assessments built into this tutorial!
 
 ## Week Eight (3/27 to 4/2)
