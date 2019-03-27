@@ -11,4 +11,11 @@ Your request for software should reflect the skills we've been learning in the c
 
 It's all Right if your post is longer than 500 words. Please upload your posting to GitHub and link me to the page where it is visible (preferred) or email it to me by Tuesday night.
 
-The Zine Union Catalog is in need of a website developer to make a professional, static site, that details the activity of the Zine Union Catalog and provide clear information about the project and its creators.
+The [Zine Union Catalog](www.zinecat.org) (aka ZineCat or ZUC) is in need of a website developer to make a professional, static site, that details the activity of the Zine Union Catalog and provide clear information about the project and its creators.  The site will be created using HTML and CSS and will require working closely with the client (creators of ZineCat) to develop content , design, and build the site.  
+
+The following are the pages required in phase one of website development:
+* Home Page
+* About Us
+* How to get involved (that includes information on ZineCat's [Git Hub repo](https://github.com/lsrkthelibrarian/zinecat.org))
+* Follow us that includes information on Twitter, Facebook, and Blog
+* How to access the Zine Union Catalog: [www.zinecat.org](www.zinecat.org)
