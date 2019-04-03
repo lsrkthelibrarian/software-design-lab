@@ -63,7 +63,9 @@ Another happiness for me is a better grasp of HTML.  I've been hovering around w
 
 So, I'm going to focus some more efforts on HTML lessons this week and I am very excited by the opportunity to build and design my own site.  This is supported by the final project I am working on where I will be building a static site for City College's Website with Marie, Anthony, and Senom (unless she reassigned herself to Kelly's Water Intake project?  or maybe she's on both?). 
 
-I am finding the W3schools tutorials very approachable and useful.  I am also toggling between my personal Mac computer and this week trying out the interface on my work PC.  I don't want to cause confusion, but I think it's somewhat important to be comfortable in both systems.  
+I am finding the W3schools tutorials very approachable and useful.  I am also toggling between my personal Mac computer and this week trying out the interface on my work PC.  I don't want to cause confusion, but I think it's somewhat important to be comfortable in both systems.
+
+I just had a mini panic, but I think it may be the first time that I've been there which might mean I'm not "getting in the weeds" enough.  When I was pushing my journal for this week to GitHub, I got a message that the command couldn't be completed because the directories did not match.  It turns out that I had added my Call for Programmers on GitHub and hadn't used the command line to create a new file.  I guess that was a bit silly of me, but since I hadn't merged the two, there was a discrepancy.  In my attempt to resolve this, I was directed to stack overflow where I was able to do a git pull and then made the proper updates.  However, this changed what my command line looked like and I couldn't find the templates file for a few minutes and I panicked!  After a few minutes of panicking and trying to locate the file using the GUI, I saw that it was still there and went back to the command line and took a closer look.  Turns out it was still there.  Glad I didn't ruin it all and now on to another commit.  
 
 ## Week Nine (4/3 to 4/9)
 
