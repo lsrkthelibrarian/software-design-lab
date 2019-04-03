@@ -54,3 +54,21 @@ I should say that I am very comfortable opening and using the command line now. 
 I've spent another hour going through the Wikibooks tutorial and was able to get the %s special formatting to work this time, but not sure why!  I'm now stuck on the Exercises in the Variables and Strings tutorial!  I'm going to continue to tackle the exercises and also to take the Quiz at the end.  I like that there are assessments built into this tutorial!
 
 ## Week Eight (3/27 to 4/2)
+
+This week, I continued to catch up on the lab homework and reviewed more of the Python materials.  I'm still uncertain about my ability to understand the uses of Python.  Through some searching, I found a YouTube tutorial called "Python Tutorials for Beginners" published by Programming with Mosh.  It's located at: www.youtube.com/watch?v=_uQrJ0TkZlc  It's six hours long and I'll be watching it as we continue to move through our course work.  I am a little skeptical of the material since in a promotional video on the website codewithmosh.com the instructor throws "useless" textbooks in the garbage, but I'll still give the YouTube tutorial a try.  There are three exercises that we will accomplish: predict music likes, automate repetitive tasks quickly, and to build a grocery shopping site using Django.  
+
+I must fully admit that I am impressed with my minimal accomplishments so far in this course.  The command line was always a very scary computer place for me and I feel like that alone is a reward for taking this course.  Of course, it would be amazing to walk away with a better understanding of Pythong and SQL and APIs, but I do feel buoyed by the smaller accomplishments and I am trying not to be too intimidated with the larger things.  With that being said, I will continue to pursue an understanding of Python through the materials shared in this course and through additional training such as the YouTube video referced earlier in this week's lab report.  
+
+Another happiness for me is a better grasp of HTML.  I've been hovering around website content creation for some time, but often it was inside of very complicated Content Management Systems where the context for the language and structure for building the site were lost on me.  I was able to go in superficially and change a few things here or there, but I really wasn't getting the structure.  With our work on HTML and CSS this semester, the shroud of mystery has lifted a bit.  
+
+So, I'm going to focus some more efforts on HTML lessons this week and I am very excited by the opportunity to build and design my own site.  This is supported by the final project I am working on where I will be building a static site for City College's Website with Marie, Anthony, and Senom (unless she reassigned herself to Kelly's Water Intake project?  or maybe she's on both?). 
+
+I am finding the W3schools tutorials very approachable and useful.  I am also toggling between my personal Mac computer and this week trying out the interface on my work PC.  I don't want to cause confusion, but I think it's somewhat important to be comfortable in both systems.  
+
+## Week Nine (4/3 to 4/9)
+
+
+## Week Ten (4/10 to 4/16)
+
+
+## Week Eleven (4/17 to 4/23)
