@@ -69,8 +69,26 @@ I just had a mini panic, but I think it may be the first time that I've been the
 
 ## Week Nine (4/3 to 4/9)
 
+I was quite upset to have to miss Adam and Clara's presentation, but I am happy to know that it's available on the course syllabus.  
+
+This week, I really had to re-evaluate my expectations for what I was going to accomplish in this course.  Although this has been a very intimidating course to take on, I do feel like there are so many useful skills, but I have found just mastering navigation on the command line and communicating with github from my computer to be a steep learning curve, so I feel like I haven't been fully comfortable moving forward with other tasks.  I also have very little opportunity in my current work experience to apply the skills being taught in this course.  I know I've shared this concern in previous journal posts.
+
+However, I am continuing my practice with HTML and CSS.  This has been something I've long been confused by, but I really just didn't understand what it was.  I am now less uncertain, but I am still a little intimidated by the power of it.  Nevertheless, I have enjoyed building a basic website with it.  I wish I could set new course goals and that would be to build a personal site using just basic HTML and CSS.  
+
+For my call for programmers, I pitched creating a static site for the Zine Union Catalog, which even if it isn't selected, I can get to do on my own with HTML and CSS knowledge.  I'd like to say that I'd be ablew to work on the zinecat.org database with these tools as well, but that system is built using Collective Access, and open source digital asset management platform that is programmed with PHP.  This course won't cover that language, so I feel it's a bit off the mark for my skills and needs.  Perhaps my growing understanding of HTML will help me understand PHP too.
 
 ## Week Ten (4/10 to 4/16)
 
+My call to programmers did not get accepted, but I do find myself on a team building another static site.  Which is good, because it's like what I wanted to do for my project, but for someone else!  I am eager to be part of this project and to work with classmates I haven't yet had a time to work with in my DH courses.  So far, Marie has really taken the initiative to get us communicating--she's a good client!
 
 ## Week Eleven (4/17 to 4/23)
+
+There's been some progress with my group, but not much.  We have created a google doc that will serve as the basis of our communicating for the project, but we are also communicating via email.  We're set to meet after class to get on the same page about the project.  
+
+## Week Twelve (4/24 to 4/30)
+
+Spring break.  Where I know I should be working on more and catching up, but really, I've just been able to communicate with my group on a minimal level to get the project going.  
+
+## Week Thirteen (5/1 to 5/7)
+
+I continue to communicate with my group about the project's developments.  Seems like we've decided more fully on roles and responsibilities, but I'm thinking that since the deliverable isn't the priority, it's hard for us to know what exactly to do.  We've discussed what components of the static site are needed and figured out some of the content (based on the already existing City University's site), but there was some back and forth of who would ultimately be the lead developer.  Senom and I were both interested in this, but in the end, since I was doing a bit more of the project managing, I've gone with that role and will assist in development in any way possible.  
